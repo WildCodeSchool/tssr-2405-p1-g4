@@ -152,6 +152,13 @@ Cela collera la base de données sur le serveur.
 2. **Installer KeePass** :
    - Exécutez le fichier téléchargé et suivez les instructions à l'écran pour installer KeePass.
 
+3. **KeePass en Français** :
+   - Cliquer sur "view" puis sur "change language"  
+   - une fenetre apparait cliquer sur "get more language" en bas a gauche.  
+   - télécharger la langue "french".  
+   - Décomprésser dans c:\\Program Files\KeePass Password Safe2\languages.  
+   - Retourné dans "view" "change language" selectionné francais puis redemarrer keepass.  
+
 
 ## Création d'une Nouvelle Base de Données
 
