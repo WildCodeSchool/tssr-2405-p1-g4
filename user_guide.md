@@ -1,14 +1,14 @@
 # **Utilisation Keepass** ![logo](https://www.thesmbguide.com/images/keepass-password-safe-420x320-20190220.png)
 
-## petit mot sur keepas 
+## Petit mot sur keepass 
 
 KeePass est un gestionnaire de mots de passe open source gratuit, qui vous aide à gérer vos mots de passe de manière sécurisée. Vous pouvez stocker tous vos mots de passe dans une seule base de données, verrouillée avec une clé principale. Il vous suffit donc de mémoriser une seule clé principale pour déverrouiller toute la base de données. Les fichiers de la base de données sont cryptés à l'aide des algorithmes de cryptage les meilleurs et les plus sécurisés actuellement connus (AES-256, ChaCha20 et Twofish). Pour plus d’informations, [consultez la page](https://keepass.info/features.html)
 ----------
 
 
-# **Saisie clé pricipal**
+# **Saisie clé pricipale**
 
-## **Trés important**
+## **Très important**
    
 
 Votre clé principale doit être une phrase que seul vous connaissaie, elle nepeut pas être stocker sur votre poste, une page sur laquelle vous pourrez écrire votre clé principal sera éditée, vous remplirez les champs demandés et garder ce document car votre mot de passe ne peux pas être sauvegarder par un tiers.
@@ -17,7 +17,7 @@ Votre clé principale doit être une phrase que seul vous connaissaie, elle nepe
 
 
 ## **Saisie de votre mot de passe personelle**
-A l'ouverture de KEEPASS la clé principale par defaut est **"keepasswild"**
+A l'ouverture de KEEPASS la clé principale par défaut est **"keepasswild"**
 
 
 ![saisie mot de passe](https://github.com/damdupre/keepass/blob/notice-utilisateur/screenshot%20keepass/saisie%20mot%20de%20passe.png?raw=true)
